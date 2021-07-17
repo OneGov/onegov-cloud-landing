@@ -6,5 +6,5 @@ Neu können Tickets anderen Benutzern zugewiesen werden. Der entsprechende Benut
 
 Um jederzeit den Überblick über die eigenen Tickets zu haben, gibt es neu die Ansicht "Meine Tickets".
 
-![Die Ansicht "Meine Tickets" zeigt alle eigenen Tickets.](images/2021-67-org.png)
+![Die Ansicht "Meine Tickets" zeigt alle eigenen Tickets.](images/2021-67-org.png) \
 *Die Ansicht "Meine Tickets" zeigt alle eigenen Tickets.*
